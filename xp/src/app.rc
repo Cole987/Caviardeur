@@ -1,0 +1,39 @@
+#pragma code_page(65001)
+#include <windows.h>
+#include "resource.h"
+
+// Icônes Windows 2000/98 (propriété de Microsoft) : exe réservé à un usage personnel.
+IDI_APP       ICON "../icones/w2k_write_document.ico"
+IDI_OPEN      ICON "../icones/w2k_open_folder.ico"
+IDI_SAVE      ICON "../icones/w98_diskettes_copy.ico"
+IDI_SEARCH    ICON "../icones/w2k_find.ico"
+IDI_DELETE    ICON "../icones/w2k_recycle_bin_empty.ico"
+IDI_ZOOM      ICON "../icones/w98_magnifying_glass.ico"
+IDI_FIT       ICON "../icones/w2k_default_application.ico"
+IDI_MSG_INFO      ICON "../icones/w2k_info.ico"
+IDI_MSG_WARNING   ICON "../icones/w2k_warning.ico"
+IDI_MSG_ERROR     ICON "../icones/w2k_stop.ico"
+IDI_MSG_QUESTION  ICON "../icones/w98_msg_question.ico"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     2,0,0,0
+PRODUCTVERSION  2,0,0,0
+FILEOS          VOS_NT_WINDOWS32
+FILETYPE        VFT_APP
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040C04B0"
+    BEGIN
+      VALUE "FileDescription", "Caviardeur - caviardage définitif de documents"
+      VALUE "FileVersion", "2.0"
+      VALUE "ProductName", "Caviardeur"
+      VALUE "ProductVersion", "2.0"
+      VALUE "OriginalFilename", "Caviardeur.exe"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x040C, 1200
+  END
+END

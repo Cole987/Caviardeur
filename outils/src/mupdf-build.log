@@ -1,0 +1,440 @@
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+/usr/bin/sh: line 1: pkg-config: command not found
+    CC build/release-tofu-tofu_cjk/source/fitz/deskew.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-edge.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-edgebuffer.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-glyph.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-mesh.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-paint.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-path.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-unpack.o
+    CC build/release-tofu-tofu_cjk/source/fitz/encode-basic.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-rasterize.o
+    CC build/release-tofu-tofu_cjk/source/fitz/draw-scale-simple.o
+    CC build/release-tofu-tofu_cjk/source/fitz/encode-fax.o
+    CC build/release-tofu-tofu_cjk/source/fitz/encode-jpx.o
+    CC build/release-tofu-tofu_cjk/source/fitz/encodings.o
+    CC build/release-tofu-tofu_cjk/source/fitz/error.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-basic.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-brotli.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-dct.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-fax.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-flate.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-jbig2.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-leech.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-lzw.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-predict.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-sgi.o
+    CC build/release-tofu-tofu_cjk/source/fitz/filter-thunder.o
+    CC build/release-tofu-tofu_cjk/source/fitz/font.o
+    CC build/release-tofu-tofu_cjk/source/fitz/ftoa.o
+    CC build/release-tofu-tofu_cjk/source/fitz/gz-doc.o
+    CC build/release-tofu-tofu_cjk/source/fitz/glyph.o
+    CC build/release-tofu-tofu_cjk/source/fitz/hash.o
+    CC build/release-tofu-tofu_cjk/source/fitz/glyphbox.o
+    CC build/release-tofu-tofu_cjk/source/fitz/getopt.o
+    CC build/release-tofu-tofu_cjk/source/fitz/harfbuzz.o
+    CC build/release-tofu-tofu_cjk/source/fitz/halftone.o
+    CC build/release-tofu-tofu_cjk/source/fitz/heap.o
+    CC build/release-tofu-tofu_cjk/source/fitz/geometry.o
+    CC build/release-tofu-tofu_cjk/source/fitz/hyphen.o
+    CC build/release-tofu-tofu_cjk/source/fitz/image.o
+    CC build/release-tofu-tofu_cjk/source/fitz/leptonica-wrap.o
+    CC build/release-tofu-tofu_cjk/source/fitz/jmemcust.o
+    CC build/release-tofu-tofu_cjk/source/fitz/json.o
+    CC build/release-tofu-tofu_cjk/source/fitz/link.o
+    CC build/release-tofu-tofu_cjk/source/fitz/list-device.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-bmp.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-gif.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-jbig2.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-jpeg.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-jpx.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-jxr.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-png.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-pnm.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-psd.o
+    CC build/release-tofu-tofu_cjk/source/fitz/load-tiff.o
+    CC build/release-tofu-tofu_cjk/source/fitz/log.o
+    CC build/release-tofu-tofu_cjk/source/fitz/memento.o
+    CC build/release-tofu-tofu_cjk/source/fitz/memory.o
+    CC build/release-tofu-tofu_cjk/source/fitz/noto.o
+    CC build/release-tofu-tofu_cjk/source/fitz/ocr-device.o
+    CC build/release-tofu-tofu_cjk/source/fitz/options.o
+    CC build/release-tofu-tofu_cjk/source/fitz/outline.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-csv.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-cbz.o
+source/fitz/memory.c: In function 'fz_malloc':
+source/fitz/memory.c:106:58: warning: unknown conversion type character 'z' in format [-Wformat=]
+  106 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "malloc (%zu bytes) failed", size);
+      |                                                          ^
+source/fitz/memory.c:106:48: warning: too many arguments for format [-Wformat-extra-args]
+  106 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "malloc (%zu bytes) failed", size);
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+source/fitz/memory.c: In function 'fz_malloc_array_imp':
+source/fitz/memory.c:124:64: warning: unknown conversion type character 'z' in format [-Wformat=]
+  124 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "malloc array (%zu x %zu bytes) failed (overflow)", nmemb, size);
+      |                                                                ^
+source/fitz/memory.c:124:70: warning: unknown conversion type character 'z' in format [-Wformat=]
+  124 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "malloc array (%zu x %zu bytes) failed (overflow)", nmemb, size);
+      |                                                                      ^
+source/fitz/memory.c:124:48: warning: too many arguments for format [-Wformat-extra-args]
+  124 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "malloc array (%zu x %zu bytes) failed (overflow)", nmemb, size);
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source/fitz/memory.c: In function 'fz_realloc_array_imp':
+source/fitz/memory.c:133:65: warning: unknown conversion type character 'z' in format [-Wformat=]
+  133 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "realloc array (%zu x %zu bytes) failed (overflow)", nmemb, size);
+      |                                                                 ^
+source/fitz/memory.c:133:71: warning: unknown conversion type character 'z' in format [-Wformat=]
+  133 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "realloc array (%zu x %zu bytes) failed (overflow)", nmemb, size);
+      |                                                                       ^
+source/fitz/memory.c:133:48: warning: too many arguments for format [-Wformat-extra-args]
+  133 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "realloc array (%zu x %zu bytes) failed (overflow)", nmemb, size);
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source/fitz/memory.c: In function 'fz_calloc':
+source/fitz/memory.c:145:58: warning: unknown conversion type character 'z' in format [-Wformat=]
+  145 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "calloc (%zu x %zu bytes) failed (overflow)", count, size);
+      |                                                          ^
+source/fitz/memory.c:145:64: warning: unknown conversion type character 'z' in format [-Wformat=]
+  145 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "calloc (%zu x %zu bytes) failed (overflow)", count, size);
+      |                                                                ^
+source/fitz/memory.c:145:48: warning: too many arguments for format [-Wformat-extra-args]
+  145 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "calloc (%zu x %zu bytes) failed (overflow)", count, size);
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source/fitz/memory.c:150:58: warning: unknown conversion type character 'z' in format [-Wformat=]
+  150 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "calloc (%zu x %zu bytes) failed", count, size);
+      |                                                          ^
+source/fitz/memory.c:150:64: warning: unknown conversion type character 'z' in format [-Wformat=]
+  150 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "calloc (%zu x %zu bytes) failed", count, size);
+      |                                                                ^
+source/fitz/memory.c:150:48: warning: too many arguments for format [-Wformat-extra-args]
+  150 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "calloc (%zu x %zu bytes) failed", count, size);
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+source/fitz/memory.c: In function 'fz_realloc':
+source/fitz/memory.c:183:59: warning: unknown conversion type character 'z' in format [-Wformat=]
+  183 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "realloc (%zu bytes) failed", size);
+      |                                                           ^
+source/fitz/memory.c:183:48: warning: too many arguments for format [-Wformat-extra-args]
+  183 |                 fz_throw(ctx, FZ_ERROR_SYSTEM, "realloc (%zu bytes) failed", size);
+      |                                                ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    CC build/release-tofu-tofu_cjk/source/fitz/output-jpeg.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-docx.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-pcl.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-pclm.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-pdfocr.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-png.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-pnm.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-ps.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-psd.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-pwg.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output-svg.o
+    CC build/release-tofu-tofu_cjk/source/fitz/output.o
+    CC build/release-tofu-tofu_cjk/source/fitz/path.o
+    CC build/release-tofu-tofu_cjk/source/fitz/pixmap.o
+    CC build/release-tofu-tofu_cjk/source/fitz/pool.o
+    CC build/release-tofu-tofu_cjk/source/fitz/printf.o
+    CC build/release-tofu-tofu_cjk/source/fitz/random.o
+    CC build/release-tofu-tofu_cjk/source/fitz/separation.o
+    CC build/release-tofu-tofu_cjk/source/fitz/shade.o
+    CC build/release-tofu-tofu_cjk/source/fitz/regexp.o
+    CC build/release-tofu-tofu_cjk/source/fitz/skew.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-boxer.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-classify.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-device.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-iterator.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-output.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-para.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-raft.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-search.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stext-table.o
+    CC build/release-tofu-tofu_cjk/source/fitz/store.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stream-open.o
+    CC build/release-tofu-tofu_cjk/source/fitz/stream-read.o
+    CC build/release-tofu-tofu_cjk/source/fitz/strtof.o
+    CC build/release-tofu-tofu_cjk/source/fitz/string.o
+    CC build/release-tofu-tofu_cjk/source/fitz/subset-cff.o
+    CC build/release-tofu-tofu_cjk/source/fitz/subset-ttf.o
+    CC build/release-tofu-tofu_cjk/source/fitz/svg-device.o
+    CC build/release-tofu-tofu_cjk/source/fitz/test-device.o
+    CC build/release-tofu-tofu_cjk/source/fitz/text-decoder.o
+    CC build/release-tofu-tofu_cjk/source/fitz/text.o
+    CC build/release-tofu-tofu_cjk/source/fitz/time.o
+    CC build/release-tofu-tofu_cjk/source/fitz/trace-device.o
+    CC build/release-tofu-tofu_cjk/source/fitz/track-usage.o
+    CC build/release-tofu-tofu_cjk/source/fitz/tree.o
+    CC build/release-tofu-tofu_cjk/source/fitz/transition.o
+    CC build/release-tofu-tofu_cjk/source/fitz/ucdn.o
+    CC build/release-tofu-tofu_cjk/source/fitz/uncfb.o
+    CC build/release-tofu-tofu_cjk/source/fitz/unlibarchive.o
+    CC build/release-tofu-tofu_cjk/source/fitz/untar.o
+    CC build/release-tofu-tofu_cjk/source/fitz/unzip.o
+    CC build/release-tofu-tofu_cjk/source/fitz/util.o
+    CC build/release-tofu-tofu_cjk/source/fitz/warp.o
+    CC build/release-tofu-tofu_cjk/source/fitz/writer.o
+    CC build/release-tofu-tofu_cjk/source/fitz/xml-write.o
+    CC build/release-tofu-tofu_cjk/source/fitz/xml.o
+    CC build/release-tofu-tofu_cjk/source/fitz/xmltext-device.o
+    CC build/release-tofu-tofu_cjk/source/fitz/zip.o
+    CXX build/release-tofu-tofu_cjk/source/fitz/tessocr.o
+    CXX build/release-tofu-tofu_cjk/source/fitz/zxingbarcode.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-af.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-appearance.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-annot.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-clean-file.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-clean.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-cmap-parse.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-cmap-load.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-cmap.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-colorspace.o
+source/pdf/pdf-appearance.c: In function 'pdf_signature_info':
+source/pdf/pdf-appearance.c:3604:67: warning: unknown conversion type character 'F' in format [-Wformat=]
+ 3604 |                         len = strftime(now_str, sizeof now_str, "%FT%T%z", tm);
+      |                                                                   ^
+source/pdf/pdf-appearance.c:3604:70: warning: unknown conversion type character 'T' in format [-Wformat=]
+ 3604 |                         len = strftime(now_str, sizeof now_str, "%FT%T%z", tm);
+      |                                                                      ^
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-crypt.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-device.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-event.o
+source/pdf/pdf-crypt.c: In function 'pdf_new_crypt':
+source/pdf/pdf-crypt.c:145:67: warning: unknown conversion type character 'z' in format [-Wformat=]
+  145 |                 fz_warn(ctx, "encryption password key too short (%zu)", pdf_to_str_len(ctx, obj));
+      |                                                                   ^
+source/pdf/pdf-crypt.c:145:30: warning: too many arguments for format [-Wformat-extra-args]
+  145 |                 fz_warn(ctx, "encryption password key too short (%zu)", pdf_to_str_len(ctx, obj));
+      |                              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-font-add.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-font.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-form.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-function.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-graft.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-image-rewriter.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-image.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-interpret.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-js.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-label.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-layer.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-layout.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-lex.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-link.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-nametree.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-metrics.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-object.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-op-buffer.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-op-color.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-op-filter.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-op-run.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-op-vectorize.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-outline.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-page.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-parse.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-pattern.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-recolor.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-repair.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-resources.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-run.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-shade-recolor.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-shade.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-store.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-signature.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-stream.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-struct.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-subset.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-type3.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-unicode.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-util.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-write.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-xobject.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-xref.o
+    CC build/release-tofu-tofu_cjk/source/pdf/pdf-zugferd.o
+    CC build/release-tofu-tofu_cjk/source/reflow/reflow-doc.o
+    CC build/release-tofu-tofu_cjk/source/cbz/mucbz.o
+    CC build/release-tofu-tofu_cjk/source/cbz/muimg.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/Dingbats.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusBoxes-Regular.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusMonoPS-Bold.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusMonoPS-BoldItalic.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusMonoPS-Italic.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusMonoPS-Regular.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusRoman-Bold.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusRoman-BoldItalic.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusRoman-Italic.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusRoman-Regular.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusSans-Bold.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusSans-BoldItalic.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusSans-Italic.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/NimbusSans-Regular.cff.o
+    CC build/release-tofu-tofu_cjk/generated/resources/hyphen/hyph-all.zip.o
+    CC build/release-tofu-tofu_cjk/generated/resources/fonts/urw/StandardSymbolsPS.cff.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftbase.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftbbox.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftdebug.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftbitmap.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftfstype.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftgasp.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftinit.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftstroke.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftglyph.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftsynth.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/ftsystem.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/base/fttype1.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/cff/cff.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/cid/type1cid.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/psaux/psaux.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/pshinter/pshinter.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/psnames/psnames.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/raster/raster.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/sfnt/sfnt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/smooth/smooth.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/truetype/truetype.o
+    CC build/release-tofu-tofu_cjk/thirdparty/freetype/src/type1/type1.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jaricom.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcapimin.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcapistd.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcarith.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jccoefct.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jccolor.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcdctmgr.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jchuff.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcinit.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcmainct.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcmarker.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcmaster.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcomapi.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcprepct.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcparam.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jcsample.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdapimin.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdapistd.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdarith.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdatadst.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdatasrc.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdcoefct.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdcolor.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jddctmgr.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdhuff.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdmainct.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdinput.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdmarker.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdmaster.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdmerge.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdpostct.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdsample.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jdtrans.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jerror.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jfdctflt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jfdctfst.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jfdctint.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jidctflt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jidctfst.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jidctint.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jquant1.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jmemmgr.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jquant2.o
+    CC build/release-tofu-tofu_cjk/thirdparty/libjpeg/jutils.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsalpha.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmscam02.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmscnvrt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmscgats.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmserr.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsgamma.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsgmt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmshalf.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsintrp.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsio0.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsio1.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmslut.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsmd5.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsmtrx.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsnamed.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsopt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmspack.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmspcs.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsplugin.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsps2.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmssamp.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmssm.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmstypes.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsvirt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmswtpnt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/lcms2/src/cmsxform.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/adler32.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/compress.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/crc32.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/deflate.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/inffast.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/inflate.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/inftrees.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/uncompr.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/trees.o
+    CC build/release-tofu-tofu_cjk/thirdparty/zlib/zutil.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_arith.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_arith_iaid.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_arith_int.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_generic.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_halftone.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_huffman.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_image.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_hufftab.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_mmr.o
+thirdparty/jbig2dec/jbig2_huffman.c: In function 'jbig2_huffman_get_bits':
+thirdparty/jbig2dec/jbig2_huffman.c:253:89: warning: unknown conversion type character 'z' in format [-Wformat=]
+  253 |         return jbig2_error(hs->ctx, JBIG2_SEVERITY_FATAL, JBIG2_UNKNOWN_SEGMENT_NUMBER, "end of jbig2 buffer reached at offset "FMTZ, (FMTZ_CAST) hs->offset);
+      |                                                                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from thirdparty/jbig2dec/jbig2_huffman.c:36:
+thirdparty/jbig2dec/jbig2_priv.h:74:16: note: format string is defined here
+   74 | #define FMTZ "%zu"
+      |                ^
+thirdparty/jbig2dec/jbig2_huffman.c:253:89: warning: too many arguments for format [-Wformat-extra-args]
+  253 |         return jbig2_error(hs->ctx, JBIG2_SEVERITY_FATAL, JBIG2_UNKNOWN_SEGMENT_NUMBER, "end of jbig2 buffer reached at offset "FMTZ, (FMTZ_CAST) hs->offset);
+      |                                                                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+thirdparty/jbig2dec/jbig2_huffman.c: In function 'jbig2_huffman_get':
+thirdparty/jbig2dec/jbig2_huffman.c:292:89: warning: unknown conversion type character 'z' in format [-Wformat=]
+  292 |         return jbig2_error(hs->ctx, JBIG2_SEVERITY_FATAL, JBIG2_UNKNOWN_SEGMENT_NUMBER, "end of Jbig2WordStream reached at offset "FMTZ, (FMTZ_CAST) hs->offset);
+      |                                                                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+thirdparty/jbig2dec/jbig2_priv.h:74:16: note: format string is defined here
+   74 | #define FMTZ "%zu"
+      |                ^
+thirdparty/jbig2dec/jbig2_huffman.c:292:89: warning: too many arguments for format [-Wformat-extra-args]
+  292 |         return jbig2_error(hs->ctx, JBIG2_SEVERITY_FATAL, JBIG2_UNKNOWN_SEGMENT_NUMBER, "end of Jbig2WordStream reached at offset "FMTZ, (FMTZ_CAST) hs->offset);
+      |                                                                                         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_page.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_segment.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_refinement.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_symbol_dict.o
+    CC build/release-tofu-tofu_cjk/thirdparty/jbig2dec/jbig2_text.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/bio.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/dwt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/cio.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/event.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/function_list.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/ht_dec.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/image.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/invert.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/j2k.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/jp2.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/mct.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/mqc.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/openjpeg.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/pi.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/sparse_array.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/t1.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/t2.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/tcd.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/tgt.o
+    CC build/release-tofu-tofu_cjk/thirdparty/openjpeg/src/lib/openjp2/thread.o
+    AR build/release-tofu-tofu_cjk/libmupdf.a
+    AR build/release-tofu-tofu_cjk/libmupdf-third.a
